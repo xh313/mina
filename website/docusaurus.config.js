@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Minä',
   tagline: 'Xuehuai\'s Place!',
-  url: 'https://xh313.github.io/mina/',
+  url: 'https://xh313.github.io',
   baseUrl: '/mina/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
