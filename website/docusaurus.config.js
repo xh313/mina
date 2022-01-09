@@ -8,14 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Minä',
   tagline: 'Xuehuai\'s Place!',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://xh313.github.io/mina/',
+  baseUrl: '/mina/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'xh313', // Usually your GitHub org/user name.
   projectName: 'mina', // Usually your repo name.
-  trailingSlash: false,
+  trailingSlash: true,
   deploymentBranch: 'gh-pages',
 
 
