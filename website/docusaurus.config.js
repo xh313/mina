@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'xh313', // Usually your GitHub org/user name.
   projectName: 'mina', // Usually your repo name.
-  trailingSlash: true,
+  trailingSlash: false,
   deploymentBranch: 'gh-pages',
 
 
