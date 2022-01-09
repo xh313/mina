@@ -14,8 +14,9 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'xh313', // Usually your GitHub org/user name.
-  projectName: 'xh313.github.io', // Usually your repo name.
+  projectName: 'mina', // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
 
   presets: [
