@@ -66,6 +66,12 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 var(--ifm-pre-padding);
 }
 
+.footer {
+    background-color: var(--ifm-color-primary);
+    color: var(--ifm-footer-color);
+    padding: var(--ifm-footer-padding-vertical) var(--ifm-footer-padding-horizontal);
+}
+
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
@@ -79,4 +85,8 @@ html[data-theme='dark'] {
   --ifm-color-primary-lighter: #d4e8ee;
   --ifm-color-primary-lightest: #e2eff3;
   /* any other colors you wish to overwrite */
+}
+
+.footer[data-theme='dark'] {
+  color: #ffffff;
 }
