@@ -13,6 +13,7 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">嗨, Moi, Salut, Chào, Hej, and... Hi</h1>
         <p className="hero__subtitle">Welcome to {siteConfig.tagline}</p>
+        <p className="hero__subtitle">This site is currently under construction!</p>
       </div>
     </header>
   );
