@@ -78,6 +78,11 @@ h1, h2, h3, h4, h5, h6 {
     padding: var(--ifm-footer-padding-vertical) var(--ifm-footer-padding-horizontal);
 }
 
+.hero--primary[data-theme='light'] {
+    --ifm-hero-background-color: var(--ifm-color-primary);
+    --ifm-hero-text-color: var(--ifm-font-color-base-inverse);
+}
+
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
@@ -100,5 +105,4 @@ html[data-theme='dark'] {
 
 .hero--primary[data-theme='dark'] {
     --ifm-hero-background-color: #000000;
-    --ifm-hero-text-color: #ffffff;
 }
