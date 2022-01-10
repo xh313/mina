@@ -5,15 +5,50 @@
  */
 
 /* You can override the default Infima variables here. */
+@font-face {
+	font-family: 'Oggbook';
+	src: url('blogfont/OggText-Light.ttf');
+	}
+
+@font-face {
+	font-family: 'Oggbold';
+	src: url('blogfont/OggText-Book.ttf');
+	}
+
+@font-face {
+	font-family: 'Oggmed';
+	src: url('blogfont/OggText-Medium.ttf');
+	}
+
+@font-face {
+	font-family: 'Noto Serif SC';
+	src: url('blogfont/NotoSerifCJKsc-Regular.otf');
+	}
+
+@font-face {
+	font-family: 'Noto Serif SC bold';
+	src: url('blogfont/NotoSerifCJKsc-Medium.otf');
+	}
+
+@font-face {
+	font-family: 'Noto Serif SC light';
+	src: url('blogfont/NotoSerifCJKsc-Light.otf');
+	}
+
+html body {
+  font-family: 'Oggbook', 'Noto Serif SC';
+}
+
+
 :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
-  --ifm-code-font-size: 95%;
+  --ifm-color-primary: #a2d3df;
+  --ifm-color-primary-dark: #7ac0d1;
+  --ifm-color-primary-darker: #539aac;
+  --ifm-color-primary-darkest: #004436;
+  --ifm-color-primary-light: #b3dbe6;
+  --ifm-color-primary-lighter: #c9e1e8;
+  --ifm-color-primary-lightest: #edf5f7;
+  --ifm-code-font-size: 100%;
 }
 
 .docusaurus-highlight-code-line {
