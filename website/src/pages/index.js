@@ -12,14 +12,8 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">嗨, Moi, Salut, Tere, Chào, Hei, and... Hi</h1>
-        <p className="hero__subtitle">Welcome to {siteConfig.tagline}</p></div>
-//        <div className={styles.buttons}>
-//          <Link
-//            className="button button--secondary button--lg"
-//            to="/docs/intro">
-//            Docusaurus Tutorial - 5min ⏱️
-//          </Link>
-//        </div>
+        <p className="hero__subtitle">Welcome to {siteConfig.tagline}</p>
+      </div>
     </header>
   );
 }
