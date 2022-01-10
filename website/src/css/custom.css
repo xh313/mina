@@ -35,6 +35,11 @@
 	src: url('blogfont/NotoSerifCJKsc-Light.otf');
 	}
 
+@font-face {
+	font-family: 'maisonmono';
+	src: url('blogfont/MaisonMono-Light.ttf');
+	}
+
 html body {
   font-family: 'Oggbook', 'Noto Serif SC', serif;
 }
@@ -48,6 +53,7 @@ html body {
   --ifm-color-primary-lighter: #5c7ac7;
   --ifm-color-primary-lightest: #7d95d2;
   --ifm-code-font-size: 100%;
+  --ifm-font-family-monospace: 'maisonmono';
 }
 
 h1, h2, h3, h4, h5, h6 {
