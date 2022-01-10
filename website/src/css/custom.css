@@ -12,7 +12,7 @@
 
 @font-face {
 	font-family: 'Oggbold';
-	src: url('blogfont/OggText-Book.ttf');
+	src: url('blogfont/Ogg-Medium.ttf');
 	}
 
 @font-face {
@@ -71,7 +71,12 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 html[data-theme='dark'] {
-  --ifm-color-primary: #4e89e8;
-  --ifm-color-primary-dark: #5a91ea;
+  --ifm-color-primary: #aad1dd;
+  --ifm-color-primary-dark: #8ec2d2;
+  --ifm-color-primary-darker: #80bacc;
+  --ifm-color-primary-darkest: #56a4bb;
+  --ifm-color-primary-light: #c6e0e8;
+  --ifm-color-primary-lighter: #d4e8ee;
+  --ifm-color-primary-lightest: #e2eff3;
   /* any other colors you wish to overwrite */
 }
