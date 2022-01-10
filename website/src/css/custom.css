@@ -36,12 +36,27 @@
 	}
 
 @font-face {
+	font-family: 'Noto Sans SC';
+	src: url('blogfont/NotoSansCJKsc-Regular.otf');
+	}
+
+@font-face {
+	font-family: 'Noto Sans SC bold';
+	src: url('blogfont/NotoSansCJKsc-Medium.otf');
+	}
+
+@font-face {
+	font-family: 'Noto Sans SC light';
+	src: url('blogfont/NotoSansCJKsc-Light.otf');
+	}
+
+@font-face {
 	font-family: 'maisonmono';
 	src: url('blogfont/MaisonMono-Light.ttf');
 	}
 
 html body {
-  font-family: 'Oggbook', 'Noto Serif SC', serif;
+  font-family: 'Avenir', 'Noto Sans SC', sans-serif;
 }
 
 :root {
@@ -58,9 +73,9 @@ html body {
 
 h1, h2, h3, h4, h5, h6 {
     color: var(--ifm-heading-color);
-    font-family: 'Oggbold', 'Noto Serif SC bold', serif;
+    font-family: 'Avenir', 'Noto Sans SC bold', sans-serif;
     /* font-family: var(--ifm-heading-font-family); */
-    /* font-weight: var(--ifm-heading-font-weight); */
+    font-weight: var(--ifm-heading-font-weight);
     line-height: var(--ifm-heading-line-height);
     margin: var(--ifm-heading-margin-top) 0 var(--ifm-heading-margin-bottom) 0;
 }
