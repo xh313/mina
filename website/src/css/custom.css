@@ -95,6 +95,7 @@ html[data-theme='dark'] {
   --ifm-color-primary-light: #c6e0e8;
   --ifm-color-primary-lighter: #d4e8ee;
   --ifm-color-primary-lightest: #e2eff3;
+  --ifm-background-color: #000000;
   /* any other colors you wish to overwrite */
 }
 
@@ -105,4 +106,5 @@ html[data-theme='dark'] .footer {
 
 html[data-theme='dark'] .hero--primary {
     --ifm-hero-background-color: #000000;
+    --ifm-hero-text-color: #ffffff;
 }
