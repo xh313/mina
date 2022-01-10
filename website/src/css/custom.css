@@ -57,6 +57,9 @@
 
 html body {
   font-family: 'Avenir', 'Noto Sans SC', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
 }
 
 :root {
