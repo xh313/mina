@@ -100,7 +100,7 @@ const config = {
             items: [
               {
                 label: 'Cambridge ChemSoc',
-                to: 'http://www.chemsoc.ch.cam.ac.uk/',
+                href: 'http://www.chemsoc.ch.cam.ac.uk/',
               },
               {
                 label: 'GitHub',
