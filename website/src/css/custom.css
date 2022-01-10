@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 var(--ifm-pre-padding);
 }
 
-.footer {
+.footer[data-theme='light'] {
     background-color: var(--ifm-color-primary);
     color: var(--ifm-footer-color);
     padding: var(--ifm-footer-padding-vertical) var(--ifm-footer-padding-horizontal);
