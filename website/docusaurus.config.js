@@ -27,13 +27,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/xh313/mina',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/xh313/mina',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -46,10 +46,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Xuehuai He',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'A doodle of Xuehuai',
+          src: 'img/docusaurus.png',
         },
         items: [
           {
@@ -60,7 +60,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/xh313/',
             label: 'GitHub',
             position: 'right',
           },
@@ -99,17 +99,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Cambridge ChemSoc',
+                to: 'http://www.chemsoc.ch.cam.ac.uk/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/xh313',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Xuehuai He. CC BY-NC 4.0. Compliant with GDPR/ePR regulations.`,
       },
       prism: {
         theme: lightCodeTheme,

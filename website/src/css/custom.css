@@ -36,19 +36,27 @@
 	}
 
 html body {
-  font-family: 'Oggbook', 'Noto Serif SC';
+  font-family: 'Oggbook', 'Noto Serif SC', serif;
 }
 
-
 :root {
-  --ifm-color-primary: #a2d3df;
-  --ifm-color-primary-dark: #7ac0d1;
-  --ifm-color-primary-darker: #539aac;
-  --ifm-color-primary-darkest: #004436;
-  --ifm-color-primary-light: #b3dbe6;
-  --ifm-color-primary-lighter: #c9e1e8;
-  --ifm-color-primary-lightest: #edf5f7;
+  --ifm-color-primary: #002FA7;
+  --ifm-color-primary-dark: #002686;
+  --ifm-color-primary-darker: #001e6b;
+  --ifm-color-primary-darkest: #001856;
+  --ifm-color-primary-light: #3359b9;
+  --ifm-color-primary-lighter: #5c7ac7;
+  --ifm-color-primary-lightest: #7d95d2;
   --ifm-code-font-size: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--ifm-heading-color);
+    font-family: 'Oggbold', 'Noto Serif SC bold', serif;
+    /* font-family: var(--ifm-heading-font-family); */
+    /* font-weight: var(--ifm-heading-font-weight); */
+    line-height: var(--ifm-heading-line-height);
+    margin: var(--ifm-heading-margin-top) 0 var(--ifm-heading-margin-bottom) 0;
 }
 
 .docusaurus-highlight-code-line {
@@ -60,4 +68,10 @@ html body {
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme='dark'] {
+  --ifm-color-primary: #4e89e8;
+  --ifm-color-primary-dark: #5a91ea;
+  /* any other colors you wish to overwrite */
 }
