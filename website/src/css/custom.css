@@ -56,8 +56,8 @@
 	}
 
 html body {
-  font-family: 'Avenir', 'Noto Sans SC', sans-serif;
-	-webkit-font-smoothing: antialiased;
+  font-family: 'Avenir', apple-system, 'Noto Sans SC', sans-serif;
+	-webkit-font-smoothing: subpixel-antialiased;
 	-moz-osx-font-smoothing: grayscale;
 
 }
