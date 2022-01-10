@@ -88,5 +88,11 @@ html[data-theme='dark'] {
 }
 
 .footer[data-theme='dark'] {
+  background-color: #000000;
   color: #ffffff;
+}
+
+.hero--primary[data-theme='dark'] {
+    --ifm-hero-background-color: #000000;
+    --ifm-hero-text-color: #ffffff;
 }
