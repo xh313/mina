@@ -14,7 +14,7 @@ function HomepageHeader() {
         <h1 className="hero__title">嗨, Moi, Salut, Chào, Hej, and... Hi</h1>
         <p className="hero__subtitle">Welcome to {siteConfig.tagline}</p>
         <p className="hero__subtitle">This site is currently under construction.</p>
-        <a href="https://xh313.user.srcf.net/who-is-x/">Check this page out for now!</a>
+        <a href="https://xh313.user.srcf.net/who-is-x/" style="color: #ffffff">Check this page out for now!</a>
       </div>
     </header>
   );
