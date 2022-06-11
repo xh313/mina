@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmina=self.webpackChunkmina||[]).push([[693],{5508:function(n){n.exports=JSON.parse('{"allTagsPath":"/mina/blog/tags","slug":"/mina/blog/tags/finnish","name":"Finnish","count":3,"permalink":"/mina/blog/tags/finnish"}')}}]);

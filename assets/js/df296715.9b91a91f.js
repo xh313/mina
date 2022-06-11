@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmina=self.webpackChunkmina||[]).push([[237],{4526:function(a){a.exports=JSON.parse('{"allTagsPath":"/mina/blog/tags","slug":"/mina/blog/tags/french","name":"French","count":1,"permalink":"/mina/blog/tags/french"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmina=self.webpackChunkmina||[]).push([[107],{7421:function(a){a.exports=JSON.parse('{"allTagsPath":"/mina/blog/tags","slug":"/mina/blog/tags/quora","name":"Quora","count":1,"permalink":"/mina/blog/tags/quora"}')}}]);

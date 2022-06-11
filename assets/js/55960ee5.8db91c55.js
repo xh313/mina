@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmina=self.webpackChunkmina||[]).push([[121],{8070:function(n){n.exports=JSON.parse('[{"name":"Finnish","permalink":"/mina/docs/tags/finnish","count":1},{"name":"English","permalink":"/mina/docs/tags/english","count":1}]')}}]);
