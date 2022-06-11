@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Language Learning Documeting',
-    //Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Blogs documenting the happenings and progress of language learning,
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'Tips and Resources',
-    //Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         Some potentially useful resources, methods and tips coming from
@@ -27,7 +27,7 @@ const FeatureList = [
   },
   {
     title: 'Linguistic Observations and Fun Facts',
-    //Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Interesting linguistic facts about languages coming from an aspiring
