@@ -73,7 +73,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Tips and Resources',
                 to: '/docs/intro',
               },
             ],
@@ -99,8 +99,16 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Cambridge ChemSoc',
-                href: 'http://www.chemsoc.ch.cam.ac.uk/',
+                label: 'My Personal Page',
+                href: 'https://xh313.user.srcf.net/',
+              },
+              {
+                label: 'My Data Visualisation Gallery',
+                href: 'https://xh313.github.io/finsta/datavisual.html',
+              },
+              {
+                label: 'Travel & Photography',
+                href: 'https://xh313.github.io/finsta/',
               },
               {
                 label: 'GitHub',
