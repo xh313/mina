@@ -35,8 +35,11 @@ Thank you so much for your interest and patience; I am excited to share my exper
 Xuehuai
 11 Jan 2022
 
-## Miksi opin suomea? / Why did I learn Finnish?
-#### Suomeksi
-Nähkää,
 
-#### In English
+## Also...
+1. Check out the [blogs](https://xh313.github.io/mina/blog) where I log my daily writings in other languages! _(Some are really stupid...)_
+
+2. Although that intro written 5 months ago is exclusively talking about Finnish, the blogposts would be about other languages or just interesting topics in language learning / linguistics as well!
+
+Xuehuai
+11 Jun 2022
