@@ -3,7 +3,7 @@ sidebar_label: 'Intro! (IN PROGRESS)'
 sidebar_position: 1
 id: intro
 title: Intro! (IN PROGRESS)
-tags: [Intro, Suomi, English]
+tags: [Finnish, English]
 ---
 
 # Tervetuloa! Welcome!

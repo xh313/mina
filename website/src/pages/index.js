@@ -14,7 +14,7 @@ function HomepageHeader() {
         <h1 className="hero__title">嗨, Moi, Salut, Chào, Hej, and... Hi</h1>
         <p className="hero__subtitle">Welcome to {siteConfig.tagline}</p>
         <p className="hero__subtitle">This site is currently under construction.</p>
-        <a href="https://xh313.user.srcf.net/who-is-x/" style={{ color: "#ffffff" }}>Click here for the temporary page!</a>
+        <a href="https://xh313.user.srcf.net/who-is-x/" style={{ color: "#ffffff" }}>Click here for my home page!</a>
       </div>
     </header>
   );
@@ -25,7 +25,7 @@ export default function Home() {
   return (
     <Layout
       title={siteConfig.tagline}
-      description="Xuehuai's one-stop grocer's with some of her projects and fun stuff. She is a student at Pomona College interested in chemistry, physics and linguistics.">
+      description="Xuehuai's one-stop grocer's with some of her projects and fun stuff. She is a student at Pomona College interested in math, chemistry and linguistics.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
