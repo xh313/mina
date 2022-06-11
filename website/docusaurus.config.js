@@ -56,14 +56,14 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tips and resources',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
+          {to: '/blog', label: 'Language Blogs', position: 'left'},
+          /*{
             href: 'https://github.com/xh313/',
             label: 'GitHub',
             position: 'right',
-          },
+          },*/
         ],
       },
       footer: {
@@ -78,7 +78,7 @@ const config = {
               },
             ],
           },
-          {
+          /*{
             title: 'Community',
             items: [
               {
@@ -94,7 +94,7 @@ const config = {
                 href: 'https://twitter.com/docusaurus',
               },
             ],
-          },
+          },*/
           {
             title: 'More',
             items: [
