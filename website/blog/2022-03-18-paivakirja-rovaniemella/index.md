@@ -8,7 +8,7 @@ tags: [Finnish, English]
 ## Suomeksi
 
 Rovaniemen Ruokasenkadulla ei ole ollenkaan ruokaa (vaan hautauspalvelua, tietenkin), ja kaaduin kadulla jäässä 5 kertaa päivässä.
-![Hautauspalvelut](./Hautauspalvelut.jpg)
+![Hautauspalvelut](./hautauspalvelut.jpg)
 > Hautauspalvelut Ruokasenkadulla.
 
 <!--truncate-->
