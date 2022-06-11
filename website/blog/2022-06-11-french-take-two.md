@@ -2,7 +2,7 @@
 slug: french-take-two
 title: French Take 2...
 authors: xh313
-tags: [French]
+tags: [French][English]
 ---
 
 J'ai finalement changé la langue de mon téléphone du finnois au français après un an... // I finally changed my phone language from Finnish to French after a year...
