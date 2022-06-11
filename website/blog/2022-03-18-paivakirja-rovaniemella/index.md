@@ -2,7 +2,7 @@
 slug: paivakirja-rovaniemella
 title: Diary in Rovaniemi 🙄
 authors: xh313
-tags: [Finnish][English]
+tags: [Finnish, English]
 ---
 # Päiväkirja Rovaniemella 🙄
 ## Suomeksi
